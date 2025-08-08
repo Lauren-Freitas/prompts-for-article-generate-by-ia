@@ -1,0 +1,11 @@
+Crie um artigo completo com base no seguinte tema:
+“Tendências em Inteligência Artificial na Automação de Tarefas em 2025”
+
+O artigo deve conter:
+- Um título chamativo e moderno
+- Uma imagem de capa (descreva para IA gerar)
+- Uma introdução com contexto atual
+- Três blocos de desenvolvimento com subtítulos
+- Uma conclusão com um call to action
+
+O tom deve ser informativo, acessível e atrativo para leitores interessados em tecnologia e inovação.
