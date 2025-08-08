@@ -21,12 +21,15 @@ Este projeto foi desenvolvido como parte do desafio da **Digital Innovation One 
 ---
 
 ## 🛠️ Prompts Utilizados  
-Os prompts utilizados para a geração do artigo estão disponíveis na pasta [`/prompts`](./prompts).
+s prompts utilizados para a geração do artigo estão disponíveis na pasta [`/prompts`](./prompts) ou diretamente no repositório:  
+[prompts-for-article-generate-by-ia/prompts](https://github.com/Lauren-Freitas/prompts-for-article-generate-by-ia/tree/main/prompts-for-article-generate-by-ia/prompts)
+
 
 ---
 
 ## 🖼️ Imagens Geradas  
-As imagens criadas durante o projeto estão na pasta [`/images`](./images).
+As imagens criadas durante o projeto estão na pasta [prompts-for-article-generate-by-ia/images](https://github.com/Lauren-Freitas/prompts-for-article-generate-by-ia/tree/main/prompts-for-article-generate-by-ia/images)
+
 
 ---
 
