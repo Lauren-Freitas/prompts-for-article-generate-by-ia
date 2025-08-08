@@ -1,39 +1,57 @@
 # 🧠 Geração de Artigo com IA – Projeto DIO
 
-Este projeto foi desenvolvido como parte do desafio da DIO, utilizando prompts de IA para gerar automaticamente um artigo completo com estrutura profissional.
+Este projeto foi desenvolvido como parte do desafio da **Digital Innovation One (DIO)**, utilizando **prompts de Inteligência Artificial** para gerar automaticamente um artigo completo, estruturado e otimizado para publicação.
 
-## 📌 Tema do Artigo
+---
 
+## 👩‍💻 Autora  
+**Lauren Freitas**  
+🔗 [LinkedIn](https://www.linkedin.com/in/laurend-freitas/)
+
+---
+
+## 📌 Tema do Artigo  
 **Tendências em Inteligência Artificial na Automação de Tarefas em 2025**
 
-## ✨ Título Gerado
+---
 
+## ✨ Título Gerado  
 **"O Futuro da Automação: Como a IA Está Redefinindo Tarefas em 2025"**
 
-## 🛠️ Prompts Utilizados
+---
 
-Os prompts utilizados para a geração do artigo estão disponíveis na pasta `/prompts`.
+## 🛠️ Prompts Utilizados  
+Os prompts utilizados para a geração do artigo estão disponíveis na pasta [`/prompts`](./prompts).
 
-## 🖼️ Imagens Geradas
+---
 
-As imagens geradas durante o projeto estão na pasta `/images`.  
-Imagem de capa:  
-![Capa do Artigo](./images/capa-artigo.png)
+## 🖼️ Imagens Geradas  
+As imagens criadas durante o projeto estão na pasta [`/images`](./images).
 
-## 📄 Artigo Final
+---
 
-Acesse o artigo final aqui:  
-🔗 [Link para o artigo publicado (ex: Notion, Medium ou PDF)]([https://www.notion.so/exemplo-de-artigo](https://web.dio.me/articles/o-futuro-da-automacao-como-a-ia-esta-redefinindo-tarefas-em-2025-086df79fcb37))
+## 📄 Artigo Final  
+Acesse o artigo completo publicado na DIO:  
+🔗 [O Futuro da Automação: Como a IA Está Redefinindo Tarefas em 2025](https://web.dio.me/articles/o-futuro-da-automacao-como-a-ia-esta-redefinindo-tarefas-em-2025-086df79fcb37)
 
-💻 Tecnologias utilizadas no projeto
-www.chatgpt.com - para título e conteúdo
-www.lexica.art - para gerar imagens
-www.canva.com - Para formatação de banners e Layouts
+---
 
-## ✅ Checklist de entrega:
+## 💻 Tecnologias Utilizadas no Projeto  
+- [ChatGPT](https://chat.openai.com/) – Geração de título e conteúdo.  
+- [Lexica.art](https://lexica.art) – Criação de imagens com IA.  
+- [Canva](https://www.canva.com/) – Formatação de banners e layouts.
 
-- [x] Título chamativo
-- [x] Imagem de capa
-- [x] Blocos de conteúdo bem definidos
-- [x] Call to action ao final
-- [x] Estrutura completa no GitHub
+---
+
+## ✅ Checklist de Entrega  
+- [x] Título chamativo.  
+- [x] Imagem de capa atrativa.  
+- [x] Estrutura de conteúdo organizada em blocos.  
+- [x] Call to action no final.  
+- [x] Estrutura completa publicada no GitHub.
+
+---
+
+## 📬 Conecte-se comigo  
+Se você quiser trocar ideias sobre **automação, IA e desenvolvimento**, será um prazer conversar!  
+🔗 [LinkedIn – Lauren Freitas](https://www.linkedin.com/in/laurend-freitas/)
