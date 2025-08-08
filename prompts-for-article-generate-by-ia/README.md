@@ -23,7 +23,12 @@ Imagem de capa:
 ## 📄 Artigo Final
 
 Acesse o artigo final aqui:  
-🔗 [Link para o artigo publicado (ex: Notion, Medium ou PDF)](https://www.notion.so/exemplo-de-artigo)
+🔗 [Link para o artigo publicado (ex: Notion, Medium ou PDF)]([https://www.notion.so/exemplo-de-artigo](https://web.dio.me/articles/o-futuro-da-automacao-como-a-ia-esta-redefinindo-tarefas-em-2025-086df79fcb37))
+
+💻 Tecnologias utilizadas no projeto
+www.chatgpt.com - para título e conteúdo
+www.lexica.art - para gerar imagens
+www.canva.com - Para formatação de banners e Layouts
 
 ## ✅ Checklist de entrega:
 
